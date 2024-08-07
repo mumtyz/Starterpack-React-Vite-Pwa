@@ -22,7 +22,7 @@ export default function App() {
       </p>
       <a
         className="mt-8 px-6 sm:px-8 py-2 sm:py-3 text-sm sm:text-lg font-medium text-white bg-blue-600 hover:bg-blue-700 focus:bg-blue-700 dark:bg-blue-500 dark:hover:bg-blue-400 dark:focus:bg-blue-400 flex items-center justify-center space-x-2 hover:shadow-lg rounded-lg"
-        href="https://github.com/Salmandabbakuti/react-vite-boilerplate/generate"
+        href="https://github.com/mumtyz/react-vite-pwa/generate"
         target="_blank"
         rel="noreferrer"
       >
